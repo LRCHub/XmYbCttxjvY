@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Hearts Stay Unchanged",
+  "base_artist": "Mili",
+  "createdAt": "2026-01-13T20:23:04.967082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hearts Stay Unchanged",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_Hearts_Stay_Unchanged_Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hearts Stay Unchanged",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_Hearts_Stay_Unchanged_Mili.txt"
+    }
+  ]
+}
